@@ -3,6 +3,7 @@
 ## FYP-09-2022
 ## Topik Proyek			: “Pengembangan Aplikasi Interaktif Materi Sains SMA Berbasis Web Menggunakan Metode Prototyping dan Pengujian Usability Menggunakan Questionnaire for User Interaction Satisfaction”
 ## Nama Sistem atau Aplikasi	: Aplikasi Interaktif Materi Sains SMA Berbasis Web
+### Aplikasi Materi Sains SMA Berbasis Web ini dibangun sebagai media pembelajaran sains pada tingkat SMA, yang menyediakan 3 materi sains yaitu Voltage in a Parallel Circuit, Staying Healthy-Effect of Soap, dan Separating Mixture - Salt and Rice Grains. Materi pembelajaran dalam aplikasi ini berupa teks, gambar, video, dan animasi.
 ## Jenis Sistem atau Aplikasi	: Website
 
 ## Spesifikasi minimal dari device : 
@@ -10,9 +11,9 @@
 -     Installed Memory (RAM) 8 Gb
 -     Processor Intel® Core(TM) i5
 ## Kebutuhan tools terkait		:
--     Visual Studio Code atau aplikasi sejenis untuk editor code
+-     Visual Studio Code Versi 1.70.1.0
 -     Node.js Versi 10.15.1 (npm 8.1.2)
--     Chrome atau aplikasi sejenis untuk browser
+-     Chrome Versi 104
 
 ## User
 - Pada aplikasi ini hanya memiliki satu user dimana user mengakses aplikasi interaktif yang 
